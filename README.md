@@ -1,1 +1,1 @@
-# odin-recipes
+This is a site that has a main index page that will have links for a few recipes.

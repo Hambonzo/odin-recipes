@@ -1,0 +1,30 @@
+*{
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+}
+img{
+    
+}
+h1{
+    text-align: center;
+    font-size: 1200;
+}
+
+li{
+    text-align: left
+}
+
+h3{
+    text-align: left;
+    margin-top: 50px;
+}
+
+h4{
+    text-align: left;
+}
+
+.steps{
+    text-align: left;
+    margin: 9px;
+}
+
